@@ -1,0 +1,22 @@
+Data Cleaning:
+
+1. Importing multiple CSV's to Power Query editor.
+2. Identifying and handling missing values.
+3. Filtering & removing duplicates.
+4. Merging data into new custom columns.
+5. Fixing inconsistent data types and renaming columns.
+6. Removing duplicates.
+7. Applying data quality checks - column quality % and distribution, column profiling.
+8. Loading the data into spreadsheets.
+9. Pivot tables.
+
+Data Visualization:
+
+1. How are prices distributed across different categories?
+> Price distribution analysis using pivot tables and line chart.
+
+2. Do discounts affect the rank of products within each category?
+> Analyzing the correlation between discount % and product rank using a scatter plot.
+
+3. What is the correlation between the discount % and price?
+> Analysing the correlation using a combo chart. 
